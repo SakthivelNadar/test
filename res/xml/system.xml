@@ -23,6 +23,12 @@
     xmlns:settings="http://schemas.android.com/apk/res/com.android.settings" >
 
     <Preference
+        android:key="system_ota"
+        android:fragment="com.fusion.reactor.OTA"
+        android:icon="@drawable/ic_arrow"
+        android:title="@string/system_ota_title" />
+
+    <Preference
         android:key="app_ops"
         android:fragment="com.android.settings.applications.AppOpsSummary"
         android:icon="@drawable/ic_arrow"

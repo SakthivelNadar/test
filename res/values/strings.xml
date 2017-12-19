@@ -21,6 +21,10 @@
     <string name="reactor_title">Fusion Reactor</string>
     <string name="build_tweaks_summary_title">Where The Magic Begins</string>
 
+    <!-- OTA section title -->
+    <string name="system_ota_title">Updates</string>
+    <string name="fusion_ota_title">Check for updates</string>
+
     <!-- Status bar -->
     <string name="status_bar_category">Statusbar</string>
     <string name="status_bar_items_title">Statusbar items</string>
@@ -94,7 +98,7 @@
     <string name="color_title">Color</string>
     <string name="colors_title">Colors</string>
     <string name="general_settings_title">General Settings</string>
-    
+
     <!-- MTP Dirty Hack -->
     <string name="enable_mtp_dirtyhack_title">MTP instead of Charging</string>
     <string name="enable_mtp_dirtyhack_summary">Enable MTP by default for USB connection</string>
@@ -547,4 +551,3 @@
     <string name="show_carrier_enabled">Lockscreen &amp; statusbar</string>
 
 </resources>
-
