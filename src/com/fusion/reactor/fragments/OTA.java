@@ -23,6 +23,7 @@ import android.content.pm.PackageManager.NameNotFoundException;
 import android.content.res.Resources;
 import android.os.Bundle;
 import android.os.UserHandle;
+<<<<<<< HEAD:src/com/fusion/reactor/fragments/OTA.java
 import android.os.RemoteException;
 import android.os.ServiceManager;
 import android.support.v7.preference.Preference;
@@ -30,6 +31,14 @@ import android.support.v7.preference.ListPreference;
 import android.support.v7.preference.PreferenceCategory;
 import android.support.v7.preference.PreferenceScreen;
 import android.support.v7.preference.Preference.OnPreferenceChangeListener;
+=======
+import androidx.preference.ListPreference;
+import androidx.preference.SwitchPreference;
+import androidx.preference.Preference;
+import androidx.preference.PreferenceCategory;
+import androidx.preference.PreferenceScreen;
+import androidx.preference.Preference.OnPreferenceChangeListener;
+>>>>>>> d2d0a937... NitrogenSettings: Move to androidx:src/com/nitrogen/settings/fragments/NavbarSettings.java
 import android.provider.Settings;
 import android.util.Log;
 import android.view.WindowManagerGlobal;
