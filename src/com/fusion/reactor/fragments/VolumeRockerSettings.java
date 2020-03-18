@@ -1,4 +1,4 @@
-package com.nitrogen.settings.fragments;
+package com.fusion.reactor.fragments;
 
 import com.android.internal.logging.nano.MetricsProto;
 
